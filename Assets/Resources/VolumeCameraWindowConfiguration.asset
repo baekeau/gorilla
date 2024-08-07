@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VolumeCameraWindowConfiguration
   m_EditorClassIdentifier: 
   m_Mode: 0
-  m_OutputDimensions: {x: 3.28, y: 3.28, z: 3.28}
+  m_OutputDimensions: {x: 1, y: 1, z: 1}
   m_WindowResizeLimit: 0
   m_MinWindowSize: {x: 0, y: 0, z: 0}
   m_MaxWindowSize: {x: 3.28, y: 3.28, z: 3.28}
